@@ -5,3 +5,9 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# env
+.env
+
+# 第三方依赖包
+node_modules/
