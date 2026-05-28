@@ -39,4 +39,6 @@
 -- git push 将本地仓库改推送到远端存储库；需要管理员授予权限
 -- git pull 将远端存储库的最新改动更新并合并到本地
     git merge git fetch 将远端的最新改动合并进本地工作区
+-- origin/main 远端仓库主干
+-- main 本地仓库主干
 
