@@ -6,5 +6,7 @@ public class HelloWorld {
 
         System.out.println("这是开发者A的第一次修改");
 
+        System.out.println("这是开发者B的第一次修改");
+
     }
 }
